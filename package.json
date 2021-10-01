@@ -1,9 +1,9 @@
 {
-  "name": "markdown-it-plugin-template",
-  "version": "0.2.1",
+  "name": "fapoems-markdown",
+  "version": "0.2.2",
   "description": "A template for creating a markdown-it plugin",
-  "author": "Chris Sewell",
-  "homepage": "https://github.com/executablebooks/markdown-it-plugin-template",
+  "author": "Ali Zemani",
+  "homepage": "https://github.com/mehotkhan/faPoems-markdown.git  ",
   "license": "MIT",
   "keywords": [
     "markdown",

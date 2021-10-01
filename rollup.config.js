@@ -19,7 +19,7 @@ export default {
     {
       file: packageJson.main,
       format: "umd", // commonJS
-      name: "markdownitExample", // window.name if script loaded directly in browser
+      name: "fapoems-markdown", // window.name if script loaded directly in browser
       sourcemap: true
     },
     {
